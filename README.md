@@ -5,4 +5,6 @@
 - Implements `LocationsViewController`
 - Placeholders for `PhotoMapViewController` and `FullImageViewController`
 
-    
+[Link to GIF Walkthrough](http://i.imgur.com/LKV7bxl.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
